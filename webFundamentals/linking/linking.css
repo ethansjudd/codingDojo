@@ -1,0 +1,9 @@
+.element {
+    height: 100px;
+    width: 75px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    font-size: 1.2rem;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
